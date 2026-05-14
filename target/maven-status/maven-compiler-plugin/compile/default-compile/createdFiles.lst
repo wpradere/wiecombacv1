@@ -1,0 +1,8 @@
+com\wiimy\product\entity\ProductAttribute$ProductAttributeBuilder.class
+com\wiimy\product\dto\ProductAttributeResponse.class
+com\wiimy\product\dto\ProductImageRequest.class
+com\wiimy\product\repository\ProductAttributeRepository.class
+com\wiimy\product\entity\Section.class
+com\wiimy\product\entity\ProductAttribute.class
+com\wiimy\product\repository\ProductImageRepository.class
+com\wiimy\product\dto\ProductAttributeRequest.class
